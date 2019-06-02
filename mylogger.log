@@ -1,0 +1,5 @@
+2019-05-05 21:08:43,924 +.py [904 logger debug message]
+2019-05-05 21:08:44,613 +.py [905 logger info message]
+2019-05-05 21:08:59,383 +.py [906 logger warning message]
+2019-05-05 21:09:00,344 +.py [907 logger error message]
+2019-05-05 21:09:07,271 +.py [908 logger critical message]

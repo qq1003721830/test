@@ -1,0 +1,11 @@
+import pam,time
+ie=pam.PAMIE()
+ie.navigate("http://my.51job.com/my/My_SignIn.php")
+# ie.setTextBox('1003721830@qq.com','fox520fox')
+# ie.setTextBox('1003721830@qq.com','fox520fox')
+# ie.submitForm('signin')
+# ie.clickLink('个人中心')
+# ie.executeJavaScript("RefreshResume(12850111,0,'http://my.51job.com')")
+# time.sleep(1)
+# ie.executeJavaScript("Save_RefreshResume('12850111','0','http://my.51job.com')")
+# ie.quit()

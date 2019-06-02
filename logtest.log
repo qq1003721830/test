@@ -1,0 +1,7 @@
+2019-05-05 20:56:08,056 +.py [870 debug message]
+2019-05-05 20:56:08,058 +.py [871 info message]
+2019-05-05 20:56:08,058 +.py [872 warning message]
+2019-05-05 20:56:08,059 +.py [873 error message]
+2019-05-05 20:56:08,059 +.py [874 critical message]
+ERROR - error message
+2019-05-05 20:56:08,059 - root - CRITICAL - critical message
